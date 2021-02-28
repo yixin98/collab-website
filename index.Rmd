@@ -26,5 +26,5 @@ You can also embed plots, for example:
 ```{r pressure, echo=FALSE}
 plot(pressure)
 ```
-
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F478085316687809868%2F&psig=AOvVaw1Q89ubiyGITmbsARs94ALh&ust=1614603055027000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJio3avPjO8CFQAAAAAdAAAAABAD)
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
